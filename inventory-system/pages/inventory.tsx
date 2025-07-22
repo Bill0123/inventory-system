@@ -1,0 +1,1 @@
+<div>Inventory Page</div>
