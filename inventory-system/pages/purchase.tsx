@@ -1,1 +1,0 @@
-<div>Purchase Page</div>
